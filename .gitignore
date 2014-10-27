@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+.idea
+gradlew*
+realm_version_check.timestamp
+*.iml
+gradle/
